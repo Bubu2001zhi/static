@@ -21,7 +21,7 @@
             lifeCoef: 1,
             mpGrowth: 10,
             spiritGrowth: 10,
-            baseSp: 10000,
+            baseSp: 500,
             baseDp: 48,
         },
         tables: {

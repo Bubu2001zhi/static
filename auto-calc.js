@@ -22,7 +22,7 @@
             mpGrowth: 10,
             spiritGrowth: 10,
             baseSp: 500,
-            baseDp: 48,
+            baseDp: 25,
         },
         tables: {
             player: '玩家状态与信息',

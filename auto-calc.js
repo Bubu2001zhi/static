@@ -339,7 +339,7 @@
         const lv = cappedGrowthLevel(level);
         return {
             level: lv,
-            sp: Math.max(0, Math.min(lv, 100) - 1) + Math.max(0, lv - 100) * 2,
+            sp: Math.max(0, Math.min(lv, 500) - 1) + Math.max(0, lv - 500) * 2,
             dp: Math.floor(lv / 5),
         };
     }
